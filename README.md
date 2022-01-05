@@ -1,2 +1,2 @@
-# patika-projects
+# only patika projects
 
