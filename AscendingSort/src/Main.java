@@ -32,7 +32,7 @@ public class Main {
 				System.out.println("Küçükten büyüðe sýralama : "+num3+" < "+num1+" < "+num2);
 			}
 			else
-				System.out.println("Küçükten büyüðe sýralama : "+num3+" < "+num2+" < "+num1);
+				System.out.println("Küçükten büyüðe sýralama : "+num3+" < "+num2+" < "+num3);
 		}
 
 	}
